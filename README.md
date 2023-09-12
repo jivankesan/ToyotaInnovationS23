@@ -1,12 +1,5 @@
 # Toyota Innovation Challenge S23 - Quality Inspection AI
 
-<
-
-https://github.com/jivankesan/ToyotaInnovationS23/assets/117189726/5f219f54-9913-411f-beb3-406f85e42c81
-
-!-- Insert your video here, example using HTML -->
-<iframe width="560" height="315" src="https://github.com/jivankesan/ToyotaInnovationS23/assets/117189726/5f219f54-9913-411f-beb3-406f85e42c81" frameborder="0" allowfullscreen></iframe>
-
 ## 🏆 Awards
 
 Winner of the Toyota Innovation Challenge Hackathon Summer 2023. Recognized for employing the most systematic engineering approach by the Toyota Motor Manufacturing Canada (TMMC) team.
@@ -36,3 +29,5 @@ This project uses deep learning algorithms to automate and optimize the quality 
 - Roboflow API
 
 ## 🚀 Demo
+
+https://github.com/jivankesan/ToyotaInnovationS23/assets/117189726/5f219f54-9913-411f-beb3-406f85e42c81
